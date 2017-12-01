@@ -121,7 +121,7 @@ ul.social-icons li a.instagram:hover{
     padding-left: .3em;
 }
 .logo-nav-left1 {
-    float: left;
+    float: right;
     margin-left: 2em;
 }
 .logo-nav-left1 ul li a{
@@ -359,7 +359,7 @@ a.simpleCart_empty {
 /*-- //banner --*/
 /*-- banner-bottom --*/
 .banner-bottom,.new-collections,.checkout,.collections-bottom,.timer,.register,.products,.typo,.mail,.single,.login,.single-related-products{
-	padding:5em 0;
+	padding:1em 0;
 }
 .banner-bottom-grid-left{
 	float:left;
@@ -919,12 +919,12 @@ p.est{
 /*-- footer --*/
 .footer{
 	background:#D9D9D9;
-	padding:3em 0;
+	padding:2em 0;
 }
 .footer-grid h3{
 	font-size:2em;
 	color:#fff;
-	margin:0 0 1em;
+	margin:0 0 0.5em;
 	position:relative;
 	padding-bottom:.5em;
 }
@@ -1009,7 +1009,7 @@ p.est{
 }
 .footer-logo{
 	text-align:center;
-	margin:3em 0;
+	margin:1.5em 0;
 }
 .footer-logo h2 a{
 	font-size: 2em;
@@ -2387,7 +2387,7 @@ td.invert-image a img {
 		width: 50%;
 	}
 	.logo-nav {
-		padding: 1em 0 2em;
+		padding: 0.5em 0 1em;
 	}
 	.products-right-grid1:hover:before {
 		height: 62% !important;

@@ -13,5 +13,10 @@ namespace SC
         {
 
         }
+
+        protected void btnLogin_ServerClick()
+        {
+
+        }
     }
 }

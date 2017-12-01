@@ -6,9 +6,8 @@
 <!-- mail -->
 	<div class="mail animated wow zoomIn" data-wow-delay=".5s">
 		<div class="container">
-			<h3>Mail Us</h3>
-			<p class="est">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia 
-				deserunt mollit anim id est laborum.</p>
+			<h3>Contact us</h3>
+			<p class="est">Got a query? Feel free to give us a shout.</p>
 			<div class="mail-grids">
 				<div class="col-md-8 mail-grid-left animated wow slideInLeft" data-wow-delay=".5s">
 					<div>
@@ -16,17 +15,18 @@
 						<input type="email" value="Email" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Email';}" required="">
 						<input type="text" value="Subject" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Subject';}" required="">
 						<textarea type="text"  onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Message...';}" required="">Message...</textarea>
-						<input type="submit" value="Submit Now" >
+						<input type="submit" value="Submit Now" />
 					</div>
 				</div>
 				<div class="col-md-4 mail-grid-right animated wow slideInRight" data-wow-delay=".5s">
 					<div class="mail-grid-right1">
-						<img src="images/3.png" alt=" " class="img-responsive" />
-						<h4>Akhlaaq  <span>Manager</span></h4>
+						
 						<ul class="phone-mail">
 							<li><i class="glyphicon glyphicon-earphone" aria-hidden="true"></i>Phone: +1234 567 893</li>
-							<li><i class="glyphicon glyphicon-envelope" aria-hidden="true"></i>Email: <a href="mailto:info@example.com">info@example.com</a></li>
-						</ul>
+							<li><i class="glyphicon glyphicon-envelope" aria-hidden="true"></i>General Enquiries: <a href="mailto:info@example.com">info@example.com</a></li>
+					    	<li><i class="glyphicon glyphicon-envelope" aria-hidden="true"></i>Sales: <a href="mailto:info@example.com">info@example.com</a></li>
+
+                        </ul>
 						<ul class="social-icons">
 							<li><a href="#" class="facebook"></a></li>
 							<li><a href="#" class="twitter"></a></li>
